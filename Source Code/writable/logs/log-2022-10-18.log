@@ -1,0 +1,167 @@
+INFO - 2022-10-18 22:30:04 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-10-18 22:30:04 --> Table 'kuab7497_undanganv3.themes' doesn't exist
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `themes`...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `themes`...')
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `themes`...')
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/app/Models/base/BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/base/Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#6 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#7 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#8 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-10-18 22:30:05 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-10-18 22:30:05 --> Table 'kuab7497_undanganv3.themes' doesn't exist
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `themes`...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `themes`...')
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `themes`...')
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/app/Models/base/BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/base/Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#6 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#7 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#8 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-10-18 22:30:57 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-10-18 22:30:57 --> Table 'kuab7497_undanganv3.themes' doesn't exist
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `themes`...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `themes`...')
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `themes`...')
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/app/Models/base/BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/base/Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#6 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#7 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#8 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-10-18 22:30:57 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-10-18 22:30:57 --> Table 'kuab7497_undanganv3.themes' doesn't exist
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `themes`...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `themes`...')
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `themes`...')
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/app/Models/base/BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/base/Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#6 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#7 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#8 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2022-10-18 22:33:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:33:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:33:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:33:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:35:29 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:35:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-18 22:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:35:37 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-18 22:35:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:35:56 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:36:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:36:11 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:37:41 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-18 22:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:37:46 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-18 22:38:08 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:38:09 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 22:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:38:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:38:22 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:41:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:41:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:49:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:49:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:54:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:54:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:56:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:56:06 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 22:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 22:57:14 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:05:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:05:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:05:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:05:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:06:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:06:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:07:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:07:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:07:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:07:43 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:09:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:09:44 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:09:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:12:48 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:12:48 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:12:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:12:53 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:15:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:15:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:15:26 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:15:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:15:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:17:20 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:17:20 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:17:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:17:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:18:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:18:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:18:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:19:00 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:23:25 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:23:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:23:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:23:44 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:24:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:26:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-18 23:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:28:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:28:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-18 23:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-18 23:28:20 --> Controller "App\Controllers\admin\Admin" loaded.

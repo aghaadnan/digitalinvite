@@ -1,0 +1,1 @@
+[19-Oct-2022 22:02:32 Asia/Jakarta] {"transaction_details":{"order_id":"221030912","gross_amount":"300000"},"customer_details":{"email":"belerong69@gmail.com","phone":"6283867672290"},"credit_card":{"secure":true},"expiry":{"start_time":"2022-10-19 22:02:32 +0700","unit":"hour","duration":1}}

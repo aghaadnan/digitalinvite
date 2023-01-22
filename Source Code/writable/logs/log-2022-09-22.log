@@ -1,0 +1,14 @@
+INFO - 2022-09-22 02:14:45 --> Controller "App\Controllers\base\Beranda" loaded.
+CRITICAL - 2022-09-22 02:14:45 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\kiw\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\kiw\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\kiw\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `themes`...', Array, false)
+#3 C:\xampp\htdocs\kiw\app\Models\base\BerandaModel.php(44): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\kiw\app\Controllers\base\Beranda.php(35): App\Models\base\BerandaModel->get_all_themes()
+#5 C:\xampp\htdocs\kiw\system\CodeIgniter.php(910): App\Controllers\base\Beranda->index()
+#6 C:\xampp\htdocs\kiw\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\base\Beranda))
+#7 C:\xampp\htdocs\kiw\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kiw\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2022-09-22 02:15:33 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-09-22 12:18:42 --> Controller "App\Controllers\base\Beranda" loaded.

@@ -1,0 +1,722 @@
+INFO - 2022-10-19 02:05:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 02:05:42 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 02:07:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 02:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 02:11:13 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-19 02:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 02:11:52 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-19 02:12:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 02:12:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 02:16:04 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 02:21:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 02:42:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 03:10:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 03:43:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 03:43:25 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 10:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 10:55:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 11:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 11:07:44 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-19 12:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 12:22:26 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-19 12:23:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 12:29:45 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 13:32:23 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 13:58:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 13:58:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 14:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 14:36:36 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-19 15:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 15:56:12 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-19 18:57:57 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 19:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 19:06:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 19:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 19:32:13 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 19:39:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 19:42:44 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 19:52:50 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:02:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:03:13 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:03:46 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:03:48 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:03:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:04:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:05:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:05:03 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:05:18 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:06:35 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:08:32 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:09:12 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:09:12 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-19 20:09:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:09:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 20:09:43 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:10:48 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:10:58 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 20:10:59 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 20:13:39 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 20:13:39 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 20:49:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:11:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:11:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:25 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:26 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:15:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:16:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:16:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:17:05 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:21:54 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:26:28 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:26:29 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:30:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:30:24 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:30:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:30:24 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-19 21:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:30:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:32:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:33:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:33:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:33:35 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:33:40 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:16 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:16 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:33 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:44 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:34:58 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:34:58 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:01 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:01 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:06 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:06 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:06 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:06 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:06 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:06 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:07 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:07 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:07 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:07 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:07 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:07 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:07 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:07 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:07 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:07 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:08 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:08 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:14 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:14 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6282311168586', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:20 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:20 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:20 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:20 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:20 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:20 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:21 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:21 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:21 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:21 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:21 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:21 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:22 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:22 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:22 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:22 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:22 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:22 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:33 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:33 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:34 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:34 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:34 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:34 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:34 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:34 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:34 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:35:35 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 21:35:35 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '089659687659', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 21:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:36:41 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:36:52 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:36:52 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:36:58 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:36:58 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:04 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:10 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:10 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:15 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:45 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:37:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:39:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:39:19 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:39:52 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:40:02 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:40:03 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:40:23 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:41:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:41:38 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:41:38 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 21:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:41:40 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:42:55 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:48:21 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:49:41 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:49:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:52:01 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 21:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:52:25 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:56:14 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 21:57:47 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 21:57:47 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 22:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:00:21 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:00:28 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:00:30 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:00:39 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:00:52 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:00:58 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:10 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:15 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:24 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:29 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:36 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:40 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:43 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:48 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:01:49 --> Controller "App\Controllers\base\Order" loaded.
+INFO - 2022-10-19 22:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:02:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:02:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:02:04 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:02:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:02:16 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:02:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:02:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:07 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:07 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:15 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:15 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:15 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:15 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:15 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:15 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:15 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:15 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:17 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:23 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:31 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:31 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:31 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:31 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:31 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:31 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:31 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:31 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:31 --> Controller "App\Controllers\admin\Admin" loaded.
+CRITICAL - 2022-10-19 22:03:31 --> Too few arguments to function App\Controllers\admin\Admin::send_wa(), 3 passed in /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php on line 210 and exactly 4 expected
+#0 /home/kuab7497/public_html/kuatnikah.online/v3/app/Controllers/admin/Admin.php(210): App\Controllers\admin\Admin->send_wa('17112195af932ee...', '6283867672290', 'Halo Kak, Terim...')
+#1 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(910): App\Controllers\admin\Admin->do_konfirmasi()
+#2 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin\Admin))
+#3 /home/kuab7497/public_html/kuatnikah.online/v3/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kuab7497/public_html/kuatnikah.online/v3/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2022-10-19 22:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:03:56 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:04:02 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:04:07 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-19 22:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:04:53 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:05:17 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:05:38 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:05:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:05:39 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:05:46 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:05:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:05:55 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 22:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:22 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:23 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:06:47 --> Controller "App\Controllers\bukutamu\Bukutamu" loaded.
+INFO - 2022-10-19 22:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:07:05 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:07:26 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:07:31 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:08:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:08:10 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:08:17 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2022-10-19 22:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:08:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:08:52 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:10:15 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 22:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:11:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:13:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:13:11 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:15:27 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:15:40 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:15:47 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:16:31 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 22:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:16:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:17:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:17:49 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 22:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:17:59 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:18:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:18:39 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:21:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:21:02 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:21:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:21:42 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:22:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2022-10-19 22:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:22:57 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:23:08 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:23:12 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:23:30 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:23:47 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:24:34 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:25:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:25:54 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:26:32 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:27:32 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:27:39 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:27:54 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:28:07 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2022-10-19 22:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:30:21 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:30:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:30:35 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:30:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:30:36 --> Controller "App\Controllers\base\Dashboard" loaded.
+INFO - 2022-10-19 22:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2022-10-19 22:32:03 --> Controller "App\Controllers\base\Dashboard" loaded.
