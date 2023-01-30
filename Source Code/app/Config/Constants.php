@@ -87,11 +87,17 @@ define('SITE_ADMIN', 'https://admin.v3.kuatnikah.online');
 define('SITE_BUKUTAMU', 'https://bukutamu.v3.kuatnikah.online');
 
 //DOMAIN ONLY
-define('DOMAIN_UTAMA', 'v3.kuatnikah.online');
-define('DOMAIN_UTAMA_WWW', 'www.v3.kuatnikah.online'); //PAKE WWW
-define('DOMAIN_UNDANGAN', 'undangan.v3.kuatnikah.online');
-define('DOMAIN_ADMIN', 'admin.v3.kuatnikah.online');
-define('DOMAIN_BUKUTAMU', 'bukutamu.v3.kuatnikah.online');
+//define('DOMAIN_UTAMA', 'v3.kuatnikah.online');
+//define('DOMAIN_UTAMA_WWW', 'www.v3.kuatnikah.online'); //PAKE WWW
+//define('DOMAIN_UNDANGAN', 'undangan.v3.kuatnikah.online');
+//define('DOMAIN_ADMIN', 'admin.v3.kuatnikah.online');
+//define('DOMAIN_BUKUTAMU', 'bukutamu.v3.kuatnikah.online');
+//
+define('DOMAIN_UTAMA', 'localhost');
+define('DOMAIN_UTAMA_WWW', 'localhost'); //PAKE WWW
+define('DOMAIN_UNDANGAN', 'localhost');
+define('DOMAIN_ADMIN', 'localhost');
+define('DOMAIN_BUKUTAMU', 'localhost');
 
 //base url dinamis
 $base = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https://'.$_SERVER['HTTP_HOST'].dirname($_SERVER['SCRIPT_NAME']) : 'http://'.$_SERVER['HTTP_HOST'].dirname($_SERVER['SCRIPT_NAME']);
